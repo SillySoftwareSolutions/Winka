@@ -14,6 +14,8 @@ an Arduino based Monitor wake-up machine
 
 ## HiSTORy:
 
-> v0.1_AK  * erster Test
-> v1.0_AK  * erste saubere Version: ohne delay; Button zum Winken; Variablen zum Anpassen
+* v0.1_AK  * erster Test
+* v1.0_AK  * erste saubere Version: ohne delay; Button zum Winken; Variablen zum Anpassen
+
+---
 
